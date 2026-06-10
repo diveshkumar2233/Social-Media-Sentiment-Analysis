@@ -85,7 +85,7 @@ Social_Media_Sentiment_Analysis/
 ### 1️⃣ Clone Repository
 
 ```bash
-[git clone https://github.com/your-username/Social_Media_Sentiment_Analysis.git](https://github.com/diveshkumar2233?tab=repositories)
+https://github.com/diveshkumar2233?tab=repositories
 ```
 
 ### 2️⃣ Move to Project Folder
